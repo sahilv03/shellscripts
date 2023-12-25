@@ -8,3 +8,6 @@ echo "Hello i did it"
 echo "Merge Practise"
 echo "Merge Practise-2"
 echo "new job"
+
+echo "sahil"
+echo "anshul"
